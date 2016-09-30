@@ -1,2 +1,13 @@
 # nagios-meru-networks
-Nagios checks for Meru Networks AP and Controller
+
+About
+-----
+
+    Scripts for monitoring Meru Networks APs and Controllers
+
+Contact / Author
+----------------
+
+    Giorgio Maggiolo
+    <giorgio.maggiolo at sanbenedetto.it>
+    <giorgio at maggiolo.net>
