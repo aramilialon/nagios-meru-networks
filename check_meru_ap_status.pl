@@ -2,10 +2,10 @@
 
 
 # Developer: Giorgio Maggiolo
-# Email: giorgio.maggiolo@sanbenedetto.it
+# Email: giorgio@maggiolo.net
 # --
 # check_meru_ap_status - Check AP Status
-# Copyright (C) 2016 Acqua Minerale San Benedetto S.p.A., http://www.sanbenedetto.it
+# Copyright (C) 2016 Giorgio Maggiolo, http://www.maggiolo.net
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (GPL). If you
